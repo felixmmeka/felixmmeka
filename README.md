@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Data Scientist/Engineer with a very curious about understanding the "Why" behind what I do.<br><br>Skilled in Python, R, SQL, Tableau, MS Excel.
+A Data Scientist/Engineer with a very curious about understanding the "Why" behind what I do.<br><br>Skilled in Python, R, SQL, Power BI, Tableau, MS Excel.
 
 
 ## 🌐 Socials:
